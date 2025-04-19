@@ -1,0 +1,14 @@
+{
+    "bots": [
+      {
+        "id": 1,
+        "name": "Bot-A",
+        "class": "Assault",
+        "health": 100,
+        "damage": 25,
+        "armor": 5,
+        "avatar_url": "some_image_url"
+      }
+    ]
+  }
+  

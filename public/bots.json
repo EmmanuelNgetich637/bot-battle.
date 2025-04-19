@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Bot-A",
+      "avatar_url": "https://robohash.org/bot-a?set=set2",
+      "health": 100,
+      "damage": 30,
+      "armor": 50,
+      "image": "/bot-a.png"  
+    },
+    {
+      "id": 2,
+      "name": "Bot-B",
+      "avatar_url": "https://robohash.org/bot-b?set=set2",
+      "health": 80,
+      "damage": 40,
+      "armor": 40
+    },
+    {
+      "id": 3,
+      "name": "Bot-C",
+      "avatar_url": "https://robohash.org/bot-c?set=set2",
+      "health": 90,
+      "damage": 25,
+      "armor": 60
+    }
+  ]
+  
